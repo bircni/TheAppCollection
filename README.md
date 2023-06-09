@@ -4,8 +4,8 @@ A Collection of cool Apps & Tools to enhance your productivity, privacy, mindset
 
 ## All Apps
 
-- [Example](.\apps\example.md)
-- [ParkenUlm](.\apps\ParkenUlm.md)
+- [Example](./apps/example.md)
+- [ParkenUlm](./apps/ParkenUlm.md)
 
 ## How to contribute
 
